@@ -1,3 +1,3 @@
 # Hangman
-A small game in python
+A simple basic word game built with python
 
